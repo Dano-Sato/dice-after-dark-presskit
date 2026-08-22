@@ -29,12 +29,11 @@ assets/key-art.jpg
 assets/icon.png
   - Game icon.
 
-assets/screenshots/screenshot-01.jpg
-assets/screenshots/screenshot-02.jpg
-assets/screenshots/screenshot-03.jpg
-assets/screenshots/screenshot-04.jpg
-assets/screenshots/screenshot-05.jpg
-assets/screenshots/screenshot-06.jpg
+assets/screenshots/screenshot-01.png
+assets/screenshots/screenshot-02.png
+assets/screenshots/screenshot-03.png
+assets/screenshots/screenshot-04.png
+assets/screenshots/screenshot-05.png
   - Use real gameplay screenshots.
   - 16:9 is recommended.
 
