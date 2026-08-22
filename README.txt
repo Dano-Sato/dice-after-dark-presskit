@@ -3,16 +3,10 @@ DICE AFTER DARK — PRESS KIT SETUP
 
 This folder is ready to deploy as a static website.
 
-1. REPLACE THESE THREE PLACEHOLDERS IN index.html
---------------------------------------------------
-PLACEHOLDER_STEAM_URL
-PLACEHOLDER_TRAILER_URL
-PLACEHOLDER_EMAIL
-
-Example:
-https://store.steampowered.com/app/XXXXXX/Dice_After_Dark/
-https://www.youtube.com/watch?v=XXXXXXXXXXX
-press@yourdomain.com
+1. UPDATE LINKS AND CONTACT IN index.html
+-----------------------------------------
+The trailer link and press email are already filled in.
+Update the Steam button when the store page is available.
 
 2. ADD YOUR MEDIA
 -----------------
