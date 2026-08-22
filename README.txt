@@ -22,7 +22,7 @@ assets/logo.png
   - Transparent Dice After Dark logo.
   - Recommended: large transparent PNG.
 
-assets/key-art.jpg
+assets/key-art.png
   - Main hero / capsule-style artwork.
   - Recommended: 1920×1080 or larger.
 

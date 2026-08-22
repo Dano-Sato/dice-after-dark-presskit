@@ -32,7 +32,7 @@ img{max-width:100%;display:block}
   background:
     linear-gradient(90deg,rgba(8,8,11,.95) 0%,rgba(8,8,11,.80) 42%,rgba(8,8,11,.35) 100%),
     linear-gradient(0deg,rgba(8,8,11,.95),transparent 55%),
-    url("assets/key-art.jpg") center/cover no-repeat;
+    url("assets/key-art.png") center/cover no-repeat;
   filter:saturate(.85);
 }
 .nav{
