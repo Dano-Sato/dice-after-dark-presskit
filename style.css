@@ -85,7 +85,6 @@ img{max-width:100%;display:block}
 }
 .button:hover{border-color:#817b85;background:#17171c}
 .button.primary{background:var(--text);color:#101014;border-color:var(--text)}
-.button.disabled{cursor:default;opacity:.62}
 .section{padding:100px 0}
 .split{
   display:grid;

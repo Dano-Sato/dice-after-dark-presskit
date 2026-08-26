@@ -5,8 +5,7 @@ This folder is ready to deploy as a static website.
 
 1. UPDATE LINKS AND CONTACT IN index.html
 -----------------------------------------
-The trailer link and press email are already filled in.
-Update the Steam button when the store page is available.
+The Steam and trailer links and press email are already filled in.
 
 2. ADD YOUR MEDIA
 -----------------
